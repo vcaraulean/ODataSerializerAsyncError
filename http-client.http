@@ -1,0 +1,2 @@
+﻿### Metadata
+GET http://localhost:5000/odata/$metadata
