@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheApp.WebApi", "TheApp.Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheApp.WebApi.Tests", "TheApp.WebApi.Tests\TheApp.WebApi.Tests.csproj", "{10F3E6A4-9371-45CB-B207-711B01B7844C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheApp.ODataRepro", "TheApp.ODataRepro\TheApp.ODataRepro.csproj", "{B6C8E52A-6031-4216-A848-21E029C9F643}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,9 +32,5 @@ Global
 		{10F3E6A4-9371-45CB-B207-711B01B7844C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F3E6A4-9371-45CB-B207-711B01B7844C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F3E6A4-9371-45CB-B207-711B01B7844C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6C8E52A-6031-4216-A848-21E029C9F643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6C8E52A-6031-4216-A848-21E029C9F643}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6C8E52A-6031-4216-A848-21E029C9F643}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6C8E52A-6031-4216-A848-21E029C9F643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
